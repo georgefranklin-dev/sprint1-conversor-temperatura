@@ -1,4 +1,3 @@
-Atualiza documentação do projeto (README.md)
 # 🧊 Conversor de Temperatura (Sprint 1)
 
 Conversor interativo de temperaturas em **JavaScript puro**, utilizando execução via **terminal (CLI)**.
