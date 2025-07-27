@@ -1,6 +1,18 @@
-# 🌡️ Sprint 1 – Conversor de Temperatura
+# 🌡️ Conversor de Temperatura – Sprint 1
 
-Este é um projeto simples de conversão de temperaturas entre Celsius e Fahrenheit, desenvolvido como parte da **Sprint 1** do bootcamp **Engenharia de Software com IA**.
+Conversor interativo de temperaturas em JavaScript puro (Node.js), utilizando entrada de dados via terminal.  
+Parte da Sprint 1 da **Trilha Engenharia com IA**.
+
+---
+
+## 🧠 Objetivo
+
+Criar um aplicativo simples de linha de comando que converte temperaturas entre **Celsius** e **Fahrenheit**, aplicando:
+
+- Lógica de programação básica (funções, variáveis, entrada/saída)
+- Estrutura de projeto com Node.js
+- Execução local com `prompt-sync`
+- Versionamento com Git + GitHub
 
 ---
 
@@ -14,18 +26,15 @@ Este é um projeto simples de conversão de temperaturas entre Celsius e Fahrenh
 ## 🛠️ Tecnologias utilizadas
 
 - JavaScript (Node.js)
-- prompt-sync (entrada de dados via terminal)
+- [prompt-sync](https://www.npmjs.com/package/prompt-sync) (entrada de dados via terminal)
 - Replit + GitHub
 
 ---
 
-## ▶️ Como executar localmente
+## ▶️ Como executar localmente (Passo a Passo para Iniciantes)
 
-1. Clone o repositório:
+> ⚠️ Você pode executar esses comandos:
+> - No **terminal do seu computador** (com Git e Node instalados)  
+> - Ou no **Shell do Replit**, se estiver usando a plataforma online
 
-```bash
-git clone https://github.com/georgefranklin-dev/sprint1-conversor-temperatura.git
-cd sprint1-conversor-temperatura
-npm install prompt-sync
-node app.js
-```
+### 1. Clone o repositório
