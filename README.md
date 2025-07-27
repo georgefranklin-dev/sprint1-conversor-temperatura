@@ -1,40 +1,46 @@
 # 🌡️ Conversor de Temperatura – Sprint 1
 
-Conversor interativo de temperaturas em JavaScript puro (Node.js), utilizando entrada de dados via terminal.  
-Parte da Sprint 1 da **Trilha Engenharia com IA**.
+Conversor interativo de temperaturas em **JavaScript puro (Node.js)**, com entrada de dados via terminal.  
+Projeto desenvolvido como parte da **Sprint 1** da **Trilha Engenharia com IA**.
 
 ---
 
 ## 🧠 Objetivo
 
-Criar um aplicativo simples de linha de comando que converte temperaturas entre **Celsius** e **Fahrenheit**, aplicando:
+Criar um aplicativo simples de linha de comando para converter temperaturas entre **Celsius** e **Fahrenheit**, aplicando:
 
-- Lógica de programação básica (funções, variáveis, entrada/saída)
-- Estrutura de projeto com Node.js
-- Execução local com `prompt-sync`
-- Versionamento com Git + GitHub
+- ✅ Lógica de programação básica (funções, variáveis, entrada/saída)
+- ✅ Estrutura de projeto com Node.js
+- ✅ Execução local com `prompt-sync`
+- ✅ Versionamento com Git + GitHub
 
 ---
 
 ## 🚀 Funcionalidades
 
 - Entrada de temperatura em Celsius e Fahrenheit
-- Conversão nos dois sentidos com exibição formatada
+- Conversão precisa em ambos os sentidos
+- Exibição formatada e interativa no terminal
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - JavaScript (Node.js)
-- [prompt-sync](https://www.npmjs.com/package/prompt-sync) (entrada de dados via terminal)
+- [prompt-sync](https://www.npmjs.com/package/prompt-sync)
 - Replit + GitHub
 
 ---
 
-## ▶️ Como executar localmente (Passo a Passo para Iniciantes)
+## ▶️ Como Executar Localmente
 
-> ⚠️ Você pode executar esses comandos:
+> Você pode executar os comandos abaixo:
 > - No **terminal do seu computador** (com Git e Node instalados)  
-> - Ou no **Shell do Replit**, se estiver usando a plataforma online
+> - Ou no **Shell do Replit**
 
-### 1. Clone o repositório
+### Passo 1 – Clone o Repositório
+
+```bash
+git clone https://github.com/georgefranklin-dev/sprint1-conversor-temperatura.git
+cd sprint1-conversor-temperatura
+
