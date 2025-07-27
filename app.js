@@ -1,7 +1,5 @@
 const prompt = require("prompt-sync")();
 
-// Conversor de Temperatura – Interativo
-
 function celsiusParaFahrenheit(celsius) {
   return (celsius * 9) / 5 + 32;
 }
